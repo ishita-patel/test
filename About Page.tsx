@@ -22,7 +22,7 @@ const AboutPage: React.FC = () => {
       <section className="bg-white p-8 rounded-lg shadow-lg">
         <h3 className="text-2xl font-semibold text-gray-700 mb-4">Contact (Placeholder)</h3>
         <p className="text-lg text-gray-600 leading-relaxed">
-          This is a conceptual project showcase. For inquiries about Manus or the Manus team, please refer to official Google AI channels.
+          This is a conceptual project showcase. 
         </p>
         {/* Conceptual Visual: A small, abstract graphic or Manus team logo if appropriate */}
         <div className="text-center mt-6">
